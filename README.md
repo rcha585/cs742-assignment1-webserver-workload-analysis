@@ -26,6 +26,6 @@ AI tools may be used to assist with tasks such as summarizing results, generatin
 
 8. Plot a graph showing the file size distribution for the PDF versions of the papers and posters in the conference proceedings (i.e., from the subdirectories ./papers and ./posters). Plot a CDF graph with two lines (one for papers, one for posters). Use a graph style and axis scaling of your choosing to convey the distributions effectively. Comment on your observations.
 
-9.Calculate (or estimate) the age of each file on the Web site (i.e., the number of days since it was last modified). What is the oldest file on the Web site? How old is it? What is the newest file on the Web site? How old is it? What are the mean, median, and mode for the file age distribution?
+9. Calculate (or estimate) the age of each file on the Web site (i.e., the number of days since it was last modified). What is the oldest file on the Web site? How old is it? What is the newest file on the Web site? How old is it? What are the mean, median, and mode for the file age distribution?
 
-10.Plot a CDF graph showing the file age distribution. Use a graph style and axis scaling of your choosing to convey the distribution effectively. Comment on your observations.
+10. Plot a CDF graph showing the file age distribution. Use a graph style and axis scaling of your choosing to convey the distribution effectively. Comment on your observations.
