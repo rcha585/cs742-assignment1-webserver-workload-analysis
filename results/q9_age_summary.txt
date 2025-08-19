@@ -1,0 +1,16 @@
+Snapshot (reference) date: 2008-02-02
+
+Oldest file:
+  path: ./images.bak/acmlogo.gif
+  mtime: 2006-02-23T00:00:00
+  age (days): 709
+
+Newest file:
+  path: ./index.php
+  mtime: 2008-02-02T00:00:00
+  age (days): 0
+
+Age distribution:
+  mean   (days): 364.18
+  median (days): 348
+  mode   (days): 348
