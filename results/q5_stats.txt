@@ -1,0 +1,4 @@
+Q5 — The mean file size: 186,054.6 bytes
+Q5 — The standard deviation: 2,212,766 bytes
+Q5 — The median file size (50-th percentile value): 1,371.5 bytes
+Q5 — The mode of file sizes: 155 bytes

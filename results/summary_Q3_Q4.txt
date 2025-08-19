@@ -1,0 +1,12 @@
+Q3 — Total regular files: 5,950
+Q3 — Total size (bytes): 1,107,024,964
+
+Q4 — Largest file:
+  name: brochure-outside.ai
+  size: 59,381,544
+
+Q4 — Smallest non-empty file:
+  name: format
+  size: 2
+
+Q4 — Number of empty files: 15
